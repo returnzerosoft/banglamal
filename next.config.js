@@ -11,7 +11,7 @@ const nextConfig = {
   },
   env: {
     // API_PROD_URL: "http://127.0.0.1:8000/api/",
-    API_PROD_URL: "https://api.returnzerosoft.com/api/",
+    API_PROD_URL: "https://api.returnzerosoft.com",
     PAYMENT_RETURN_URL: "https://api.returnzerosoft.com",
     PAYMENT_CANCEL_URL: "https://api.returnzerosoft.com/",
   },
